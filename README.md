@@ -90,6 +90,6 @@ Check out some of my projects on GitHub:
 
 ## Contact Me
 
-Feel free to reach out to me through [LinkedIn]([https://www.linkedin.com/in/felipemelloit/](https://www.linkedin.com/in/felipemelloit/)
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/felipemelloit/)
 
 ---
