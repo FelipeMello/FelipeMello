@@ -78,7 +78,7 @@ With over five years of experience in software development, I specialize in Java
 ## Projects
 
 Check out some of my projects on GitHub:
-- [Microservices Architecture Examples](https://github.com/felipeMello)
+- [Microservices Architecture Examples](https://github.com/FelipeMello?tab=repositories)
 
 ## Interests
 
@@ -90,6 +90,6 @@ Check out some of my projects on GitHub:
 
 ## Contact Me
 
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/felipesilvademello/)
+Feel free to reach out to me through [LinkedIn]([https://www.linkedin.com/in/felipesilvademello/](https://www.linkedin.com/in/felipemelloit/])
 
 ---
