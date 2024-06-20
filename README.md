@@ -75,7 +75,7 @@ I'm currently pursuing a Master’s in Advanced Software Development at Technolo
 - **Portuguese:** Native
 - **Spanish:** Intermediate
 
-## Software Development and Design Master's and Side Projects 👨‍💻 
+## Software Development Side Projects 👨‍💻 
 
 ### [Gym Attendance Management Microservice](https://github.com/FelipeMello/gym-attendance-api)
 ##### Business Requirement: Gym owner wants to apply discount to gym memberships that have attended the gym once a week a month.
