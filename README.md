@@ -1,49 +1,49 @@
-# Felipe Silva de Mello
+# Hi, I'm Felipe Silva de Mello
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/felipemelloit/)
 
 ## About Me
 
-Hi, I'm Felipe Silva de Mello, a Senior Software Engineer at AIB in Dublin, Ireland. 
+Welcome! I'm Felipe Silva de Mello, a Senior Software Engineer based in Dublin, Ireland. 
 With over five years of experience in software development, I specialize in Java, Spring Boot, and microservices. 
-🌱 Currently, I am pursuing a Master’s in Advanced Software Development at Technological University Dublin.
+I'm currently pursuing a Master’s in Advanced Software Development at Technological University Dublin.
 
-## Professional Experience 🔭
+## Professional Experience 👨‍💻
 
 ### Senior Software Engineer at AIB, Dublin
 **August 2019 - Present**
 
 - **Key Responsibilities:**
-  - Develop REST APIs.
-  - Write unit, integration, and performance tests.
-  - Debug and review code.
-  - Collaborate with cross-functional teams.
-  - Lead and mentor colleagues in an Agile environment.
-  - Agile champion
-  
+    - Develop REST APIs.
+    - Conduct unit, integration, and performance tests.
+    - Debug and review code.
+    - Collaborate with cross-functional teams.
+    - Lead and mentor colleagues in an Agile environment.
+    - Champion Agile champion
+
 - **Key Achievements:**
-  - Design, Develop, Maintain, Improve, Support Java microservices, improving system performance and scalability.
-  - Implemented Single Customer View and parallel processing to reduce API latency.
-  - Played a key role in the nCino project, enhancing credit decision speed and client service quality.
-  - Drove Microservices Sustainability initiatives, including legacy code refactoring and upgrading unit tests to JUnit5.
-  
+    - Enhanced system performance and scalability thought Java microservices.
+    - Reduced API latency by implementing Single Customer View and parallel processing.
+    - Improved credit decision speed and service quality in the nCino project.
+    - Led Legacy code refactoring and upgraded unit tests to JUnit5.
+
 - **Technologies Used:**
-  - Java, Spring Boot, SQL, Hazelcast, Hibernate, MyBatis, Apache Kafka, IBM MQ, Jenkins, JUnit, Mockito, Sonar.
+    - Java, Spring Boot, JMS, IBM MQ, DB2, Apache Kafka, Hazelcast, Hibernate, MyBatis, Jenkins, JUnit, Mockito, Sonar.
 
 ### Software Engineer at Test Triangle Ltd, Dublin
 **January 2019 - August 2019**
 
 - **Key Responsibilities:**
-  - Transitioned Techfynder.com to a microservices architecture.
-  - Developed authentication microservices and integrated Stripe API for payment processes.
-  - Facilitated project management using agile methodologies.
+    - Transitioned Techfynder.com to a microservices' architecture.
+    - Developed authentication microservices and integrated Stripe API for payment processes.
+    - Facilitated agile project management.
 
 - **Key Achievements:**
-  - Implemented Keycloak for API security and developed authentication microservices for major social platforms.
-  - Spearheaded the integration of the Stripe API, enhancing subscription and payment processes.
+    - Implemented Keycloak for API security.
+    - Enhanced subscription and payment processes with Stripe API integration.
 
 - **Technologies Used:**
-  - Java 1.8, Spring Boot, Spring Data, RabbitMQ, MongoDB, Apache Maven.
+    - Java, Spring Boot, Spring Data, RabbitMQ, MongoDB, Apache Maven.
 
 ## Education
 
@@ -64,9 +64,9 @@ With over five years of experience in software development, I specialize in Java
 
 ## Skills
 
-- **Programming Languages:** Java, SQL, NoSQL
+- **Programming Languages:** Java, JavaScript, Python, PL SQL, NoSQL, JavaScript.
 - **Frameworks/Technologies:** Spring Boot, Microservices, Agile Software Development, Git
-- **Testing:** Unit Test, Integration Test
+- **Testing:** Unit Test, Integration Test, Performance Test, User Acceptance Test
 - **Other:** Troubleshooting, Low-Level Design, Communication, Leadership
 
 ## Languages
@@ -75,14 +75,51 @@ With over five years of experience in software development, I specialize in Java
 - **Portuguese:** Native
 - **Spanish:** Intermediate
 
-## Projects
+## Software Development and Design Master's and Side Projects
 
-Check out some of my projects on GitHub:
-- [Microservices Architecture Examples](https://github.com/FelipeMello?tab=repositories)
+### [Gym Attendance Management Microservice](https://github.com/FelipeMello/gym-attendance-api)
+##### Business Requirement: Gym owner wants to apply discount to gym memberships that have attended the gym once a week a month.
+###### Solution: Developed a REST API using Spring Boot to manage gym attendance and apply discounts to gym memberships.
+- **Key Features:**
+    - Create a membership.
+    - Get a memberships or all memberships.
+    - Record gym attendance.
+    - Get discount Eligibility on a membership.
+##### Technologies: Docker, Docker Compose, SQL, Spring Boot, Hibernate, Java, JPA, PostgreSQL, Maven, JUnit, Mockito, Swagger,Lombok
+
+### [API Gateway Camp](https://github.com/FelipeMello/api-gateway-camp)
+##### Business Requirement: To provide a single entry point for routing requests to the appropriate APIs or microservices
+###### Solution: Spring Cloud Gateway Configuration, This repository contains the configuration for Spring Cloud Gateway, a powerful solution for routing requests to various microservices.
+- **Key Features:**
+    - Route requests to the appropriate microservices
+    - Load balancing
+    - Circuit breaker
+    - Rate limiting
+    - Authentication and Authorization
+    - Logging and monitoring
+    - Centralized entry point for multiple microservices
+    - Handle CORS for frontend integration
+    - Rewrite request paths for compatibility
+##### Technologies: Spring Cloud Gateway, Spring Boot, Java, Maven, Docker, Docker Compose, JUnit, Mockito, Swagger, Lombok
+
+### [Campsite API Microservice](https://github.com/FelipeMello/api-camp)
+##### Business Requirement: The Campsite Management System will provide functionalities to manage campsites, including registration, updates, media uploads, and interaction capabilities such as comments.
+###### Solution: Developed a REST API using Spring Boot to manage campsites and comments.
+- **Key Features:**
+  - Register campsites
+  - Update campsites information
+  - Upload pictures of campsites
+  - Get campsites pictures
+  - Get campsites information
+  - Add a comment to a campsite
+  - Get comments of a campsite
+  - Delete a comment of a campsite
+  
+### For more projects please go to [my repositories](https://github.com/FelipeMello?tab=repositories)
 
 ## Interests
 
-- Family time
+- Spending time with Family and Friends
 - Maintaining a healthy lifestyle through regular exercise
 - Reading and continuous learning through online courses
 - Volunteering: Shoebox Appeal Charity
