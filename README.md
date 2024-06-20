@@ -8,7 +8,7 @@ Welcome! I'm Felipe Silva de Mello, a Senior Software Engineer based in Dublin, 
 With over five years of experience in software development, I specialize in Java, Spring Boot, and microservices. 
 I'm currently pursuing a Master’s in Advanced Software Development at Technological University Dublin.
 
-## Professional Experience 👨‍💻
+## Professional Experience 🔭
 
 ### Senior Software Engineer at AIB, Dublin
 **August 2019 - Present**
@@ -47,7 +47,7 @@ I'm currently pursuing a Master’s in Advanced Software Development at Technolo
 
 ## Education
 
-### Master of Science in Computer Science (Advanced Software Development)
+### Master of Science in Computer Science (Advanced Software Development) 🌱
 **Technological University Dublin**
 **September 2023 - Present**
 
@@ -75,7 +75,7 @@ I'm currently pursuing a Master’s in Advanced Software Development at Technolo
 - **Portuguese:** Native
 - **Spanish:** Intermediate
 
-## Software Development and Design Master's and Side Projects
+## Software Development and Design Master's and Side Projects 👨‍💻 
 
 ### [Gym Attendance Management Microservice](https://github.com/FelipeMello/gym-attendance-api)
 ##### Business Requirement: Gym owner wants to apply discount to gym memberships that have attended the gym once a week a month.
@@ -125,8 +125,6 @@ I'm currently pursuing a Master’s in Advanced Software Development at Technolo
 - Volunteering: Shoebox Appeal Charity
 - Mentoring 1st-year students in Java Programming at College of Computing Technology
 
-## Contact Me
-
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/felipemelloit/)
+## How to reach me 📫 [LinkedIn](https://www.linkedin.com/in/felipemelloit/)
 
 ---
