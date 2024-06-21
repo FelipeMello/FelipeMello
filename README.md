@@ -19,7 +19,8 @@ I'm currently pursuing a Master’s in Advanced Software Development at Technolo
     - Debug and review code.
     - Collaborate with cross-functional teams.
     - Lead and mentor colleagues in an Agile environment.
-    - Champion Agile champion
+    - Agile champion
+    - Design LLD (Flow Diagram, Components Diagram, Document Solution)
 
 - **Key Achievements:**
     - Enhanced system performance and scalability thought Java microservices.
