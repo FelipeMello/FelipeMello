@@ -25,7 +25,7 @@ My recent work includes **cloud migration**, **Kubernetes**, **containerization*
 
 - **What it is:** A **React** + **Vite** portfolio (projects, experience, case studies—**personal views only**, not employer statements).
 - **How it ships:** **GitHub Actions** runs on pushes and pull requests (**install → lint → production build**). A deploy job publishes the **`dist/`** static build to **GitHub Pages** so the public **`*.github.io`** URL stays aligned with the repository—no separate manual upload for that hosting path.
-- **Repository:** typically hosted under the **`felipedominus`** GitHub account as **`portofolio`** (same name as in the Pages URL).
+- **Repository:**  hosted under the [**felipedominus portofolio**](https://github.com/felipeDominus/portofolio).
 
 ---
 
