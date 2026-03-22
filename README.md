@@ -9,7 +9,7 @@ Welcome — I’m **Felipe Silva de Mello**, a **Senior Software Engineer** base
 
 I’m **passionate about technology** and about **staying current**: I follow **emerging trends**, read the ecosystem, and invest in **hands-on learning** so I can adopt new ideas where they **actually improve** reliability, security, and delivery—not just where they’re fashionable.
  
-**What I’m leaning into now:** **AI Engineering**—building **rigorous, measurable** AI-assisted workflows that fit **engineering and risk** standards and **Kubernetes**—from **cluster and platform** patterns to **automation** and **developer experience** on top of modern infrastructure.
+**What I’m honing into:** **AI Engineering**—building **rigorous, measurable** AI-assisted workflows that fit **engineering and risk** standards and **Kubernetes**—from **cluster and platform** patterns to **automation** and **developer experience** on top of modern infrastructure.
 
 **Most recent work (current role themes):** **migrating applications from Linux servers to Kubernetes**, **containerizing** services, **TLS certificate** lifecycle for cluster workloads, **Ansible Vault** (and related patterns) for **secrets**, **Kubernetes** cluster operations, **Secrets** / **ConfigMaps**, and finding the right **cloud / Kubernetes-native** options for **storage**, configuration, and sensitive data—plus **CI/CD** into the cluster, **Ansible playbooks** for repetitive ops work, and **monitoring** environments end to end.
 
