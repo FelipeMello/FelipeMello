@@ -8,12 +8,12 @@
 Welcome — I’m **Felipe Silva de Mello**, a **Senior Software Engineer** based in **Dublin, Ireland** (**Swords**; Brazilian · Irish).
 
 I’m **passionate about technology** and about **staying current**: I follow **emerging trends**, read the ecosystem, and invest in **hands-on learning** so I can adopt new ideas where they **actually improve** reliability, security, and delivery—not just where they’re fashionable.
-
-**What I’m leaning into now:** **AI Engineering**—building **rigorous, measurable** AI-assisted workflows that fit **engineering and risk** standards—and **Kubernetes**—from **cluster and platform** patterns to **automation** and **developer experience** on top of modern infrastructure.
+ 
+**What I’m leaning into now:** **AI Engineering**—building **rigorous, measurable** AI-assisted workflows that fit **engineering and risk** standards and **Kubernetes**—from **cluster and platform** patterns to **automation** and **developer experience** on top of modern infrastructure.
 
 **Most recent work (current role themes):** **migrating applications from Linux servers to Kubernetes**, **containerizing** services, **TLS certificate** lifecycle for cluster workloads, **Ansible Vault** (and related patterns) for **secrets**, **Kubernetes** cluster operations, **Secrets** / **ConfigMaps**, and finding the right **cloud / Kubernetes-native** options for **storage**, configuration, and sensitive data—plus **CI/CD** into the cluster, **Ansible playbooks** for repetitive ops work, and **monitoring** environments end to end.
 
-With **7+ years** in software delivery across **European banking and fintech**, I specialize in **Java**, **Spring Boot**, and **microservices**, extended with **DevOps / DevSecOps**, **observability** (e.g. Splunk), and **shift-left** quality. I’m completing a **part-time Master’s in Advanced Software Development** at **Technological University Dublin** (Sept 2023 – present).
+With **7+ years** experience in software delivery across **European banking and fintech**, I specialise in **Java**, **Spring Boot**, and **microservices**,  with **DevOps / DevSecOps**, **observability** (e.g. Splunk), and **shift-left** quality. I’m completing a **part-time Master’s in Advanced Software Development** at **Technological University Dublin** (Sept 2023 – present).
 
 ---
 
@@ -43,9 +43,9 @@ With **7+ years** in software delivery across **European banking and fintech**, 
     - Run automated **CVE** scanning and reporting to support security and audit readiness.
     - Build and maintain **Splunk** dashboards (UI performance, screen load, errors; comparative MoM / YoY views).
     - Engineer **Splunk** alerting on HTTP errors with email notifications to reduce **MTTR**.
-    - Champion **shift-left** quality: automated **unit, integration, and UAT** suites in **Docker**; maintain strong **code coverage**.
+    - Champion **shift-left** quality: automated **unit, integration, and UAT** suites in **Docker**, maintain strong **code coverage**.
     - Improve **developer experience** with **Kubernetes**-based patterns so teams rely less on heavy local backends.
-    - Train and use **GitHub Copilot** agents (custom skills) for repeatable engineering tasks.
+    - Use **GitHub Copilot** agents (custom skills) for repeatable engineering tasks.
 
 - **Key Achievements:**
     - Established weekly vulnerability scanning and reporting ahead of formal security audits.
@@ -91,7 +91,7 @@ With **7+ years** in software delivery across **European banking and fintech**, 
 **January 2019 - August 2019**
 
 - **Key Responsibilities:**
-    - Transitioned Techfynder.com to a microservices' architecture.
+    - Transitioned Techfynder.com to a microservices architecture.
     - Developed authentication microservices and integrated Stripe API for payment processes.
     - Facilitated agile project management.
 
@@ -112,7 +112,7 @@ With **7+ years** in software delivery across **European banking and fintech**, 
 
 **September 2023 - Present** *(part-time)*
 
-*Course themes include:* Web Applications Architectures, Secure Systems Development, Programming Paradigms, Advanced Databases, Systems Architecture, Software Design, Research Methods, Dissertation.
+*Course themes include:* Web Applications Architectures, Secure Systems Development, Programming Paradigms, Advanced Databases, Systems Architecture, Software Design, Research Methods, and Dissertation.
 
 ---
 
@@ -172,7 +172,7 @@ With **7+ years** in software delivery across **European banking and fintech**, 
 
 ## AI tooling & continuous learning (spare time)
 
-Outside my day job I **experiment constantly** with **AI-assisted engineering** tools—**Cursor**, **Gemini CLI**, **Codex**, **ChatGPT**, and the wider ecosystem—and I **signed up from ChatGPT’s first release**, so I’ve been **learning and evolving** with the technology as it matured. I focus on **skills**, **agents**, and **fine-tuned instructions** so models stay **useful, accurate, and safe** for real development work—not novelty demos.
+Outside my day job, I **experiment constantly** with **AI-assisted engineering** tools—**Cursor**, **Gemini CLI**, **Codex**, **ChatGPT**, and the wider ecosystem—and I **signed up from ChatGPT's first release**, so I've been **learning and evolving** with the technology as it matured. I focus on **skills**, **agents**, and **fine-tuned instructions** so models remain **useful, accurate, and safe** for real-world development—not novelty demos.
 
 ---
 
@@ -191,7 +191,7 @@ Outside my day job I **experiment constantly** with **AI-assisted engineering** 
     - Case studies and technical writing (personal views only)
     - CI on push/PR; site build published to GitHub Pages
 
-##### Technologies: React, Vite, GitHub Actions, GitHub Pages, ESLint, npm
+##### TecChatGPT's: React, Vite, GitHub Actions, GitHub Pages, ESLint, npm
 
 ---
 
@@ -203,9 +203,9 @@ Outside my day job I **experiment constantly** with **AI-assisted engineering** 
 
 - **Key Features:**
     - Create a membership.
-    - Get a memberships or all memberships.
+    - Get a membership or all memberships.
     - Record gym attendance.
-    - Get discount Eligibility on a membership.
+    - Get a membership discount.
 
 ##### Technologies: Docker, Docker Compose, SQL, Spring Boot, Hibernate, Java, JPA, PostgreSQL, Maven, JUnit, Mockito, Swagger, Lombok
 
@@ -215,16 +215,16 @@ Outside my day job I **experiment constantly** with **AI-assisted engineering** 
 
 ##### Business Requirement: To provide a single entry point for routing requests to the appropriate APIs or microservices
 
-###### Solution: Spring Cloud Gateway Configuration, This repository contains the configuration for Spring Cloud Gateway, a powerful solution for routing requests to various microservices.
+###### Solution: Spring Cloud Gateway Configuration. This repository contains the configuration for Spring Cloud Gateway, a powerful solution for routing requests to various microservices.
 
 - **Key Features:**
     - Route requests to the appropriate microservices
     - Load balancing
     - Circuit breaker
     - Rate limiting
-    - Authentication and Authorization
+    - Authentication and Authorisation
     - Logging and monitoring
-    - Centralized entry point for multiple microservices
+    - Centralised entry point for multiple microservices
     - Handle CORS for frontend integration
     - Rewrite request paths for compatibility
 
@@ -242,13 +242,13 @@ Outside my day job I **experiment constantly** with **AI-assisted engineering** 
   - Register campsites
   - Update campsites information
   - Upload pictures of campsites
-  - Get campsites pictures
+  - Get the campsites' pictures
   - Get campsites information
   - Add a comment to a campsite
-  - Get comments of a campsite
-  - Delete a comment of a campsite
+  - Get comments on a campsite
+  - Delete a comment on a campsite
 
-### For more projects please go to [my repositories](https://github.com/FelipeMello?tab=repositories)
+### For more projects, please go to [my repositories](https://github.com/FelipeMello?tab=repositories)
 
 ---
 
@@ -258,7 +258,7 @@ Outside my day job I **experiment constantly** with **AI-assisted engineering** 
 - Maintaining a healthy lifestyle through regular exercise
 - Reading and continuous learning through online courses
 - Volunteering: Shoebox Appeal Charity
-- Mentoring 1st-year students in Java Programming at College of Computing Technology
+- Mentoring 1st-year students in Java Programming at the College of Computing Technology
 
 ---
 
