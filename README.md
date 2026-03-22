@@ -21,7 +21,10 @@ My recent work includes **cloud migration**, **Kubernetes**, **containerization*
 
 ## Portfolio site (GitHub Actions + GitHub Pages)
 
-**Live site:** [**felipedominus.github.io/portofolio**](https://felipedominus.github.io/portofolio/)
+
+**Live site:**
+- **AWS Cloud Front - DNS In progress:** [**Portofolio Hosted on AWS**](https://d17digpoepaiww.cloudfront.net/)
+- **Git Hub Pages:** [**felipedominus.github.io/portofolio**](https://felipedominus.github.io/portofolio/)
 
 - **What it is:** A **React** + **Vite** portfolio (projects, experience, case studies—**personal views only**, not employer statements).
 - **How it ships:** **GitHub Actions** runs on pushes and pull requests (**install → lint → production build**). A deploy job publishes the **`dist/`** static build to **GitHub Pages** so the public **`*.github.io`** URL stays aligned with the repository—no separate manual upload for that hosting path.
