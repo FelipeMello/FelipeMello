@@ -114,7 +114,7 @@ My recent work includes **cloud migration**, **Kubernetes**, **containerization*
 
 **September 2023 - Present** *(part-time)*
 
-*Course themes include:* Web Applications Architectures, Secure Systems Development, Programming Paradigms, Advanced Databases, Systems Architecture, Software Design, Research Methods, and Dissertation.
+*Modules:* Web Applications Architectures, Secure Systems Development, Programming Paradigms, Advanced Databases, Systems Architecture, Software Design, Research Methods, and Dissertation.
 
 ---
 
@@ -174,7 +174,7 @@ My recent work includes **cloud migration**, **Kubernetes**, **containerization*
 
 ## AI tooling & continuous learning (spare time)
 
-Outside my day job, I **experiment constantly** with **AI-assisted engineering** tools—**Cursor**, **Gemini CLI**, **Codex**, **ChatGPT**, and the wider ecosystem—and I **signed up from ChatGPT's first release**, so I've been **learning and evolving** with the technology as it matured. I focus on **skills**, **agents**, and **fine-tuned instructions** so models remain **useful, accurate, and safe** for real-world development—not novelty demos.
+Outside my day job, I **experiment constantly** with **AI-assisted engineering** tools—**Cursor**, **Gemini CLI**, **Codex**, **ChatGPT**, and the wider ecosystem. I **signed up from ChatGPT's first release**, so I've been **learning and evolving** with the technology as it matured. I focus on **skills**, **agents**, and **fine-tuned instructions** so models remain **useful, accurate, and safe** for real-world development—not novelty demos.
 
 ---
 
@@ -217,7 +217,7 @@ Outside my day job, I **experiment constantly** with **AI-assisted engineering**
 
 ##### Business Requirement: To provide a single entry point for routing requests to the appropriate APIs or microservices
 
-###### Solution: Spring Cloud Gateway Configuration. This repository contains the configuration for Spring Cloud Gateway, a powerful solution for routing requests to various microservices.
+###### Solution: Spring Cloud Gateway Configuration. This repository contains the configuration for Spring Cloud Gateway, a solution for routing requests to various microservices.
 
 - **Key Features:**
     - Route requests to the appropriate microservices
