@@ -84,7 +84,6 @@ My recent work includes **cloud migration**, **Kubernetes**, **containerization*
     - Led **Java microservices** delivery for **SEPA Instant Payments** with high availability in an Agile environment.
     - **IBM Db2:** stored procedures, normalisation, and design for high-volume banking data.
     - Resolved **Sonar** quality gate issues alongside the **JUnit 5** migration.
-    - *(Public portfolio case study metrics for context — same initiatives as above: ~**87.5%** API latency reduction; **>96%** improvement in **nCino** credit decision cycle time, e.g. multi-day manual path to ~**30-minute** automated approval.)*
 
 - **Technologies Used:**
     - Java, Spring Boot, Spring Boot Admin, JMS, IBM MQ, DB2, Apache Kafka, Apache ZooKeeper, Kafka Tool, Linux, Splunk, Hazelcast, Hibernate, MyBatis, Jenkins, JUnit, Mockito, Sonar.
