@@ -23,7 +23,7 @@ My recent work includes **cloud migration**, **Kubernetes**, **containerization*
 
 
 **Live site:**
-- **AWS Cloud Front - DNS In progress:** [**Portofolio Hosted on AWS**](https://d17digpoepaiww.cloudfront.net/)
+- **AWS CloudFront | Route 53 | (Disabled for now due to high bill on AWS WAF against BOTS) :** [**fsdm.tech**](https://www.fsdm.tech/)
 - **Git Hub Pages:** [**felipedominus.github.io/portofolio**](https://felipedominus.github.io/portofolio/)
 
 - **What it is:** A **React** + **Vite** portfolio (projects, experience, case studies—**personal views only**, not employer statements).
